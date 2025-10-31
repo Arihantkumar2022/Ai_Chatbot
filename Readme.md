@@ -1,4 +1,4 @@
-AI Chatbot with RAG Pipeline (Amlgo Labs Assignment)
+AI Chatbot with RAG Pipeline 
 
 - Overview
 This project is part of the Junior AI Engineer assignment by  Amlgo Labs . It implements a Retrieval-Augmented Generation (RAG) pipeline using an open-source instruction-tuned LLM and vector database to power a document-aware chatbot.
